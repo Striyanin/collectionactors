@@ -87,33 +87,55 @@ https://calypso.tortuga.tw/content/stream/films/the_expendables_3_2014_bdrip_108
 #EXTINF:-1 group-title="Сільвестер Сталлоне" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjb3Qa1hDvRTY9N0uIahg3DSEaX.jpg", Нестримні 4
 https://calypso.tortuga.tw/content/stream/films/expend4bles_2023_bdrip_1080p_93421/hls/1080/index.m3u8
 
-# Король Талси
-#EXTINF:-1 group-title="Сільвестер Сталлоне" tvg-logo="https://images.kinorium.com/movie/shot/2931556/w1500_52299351.jpg", Король Талси 1-серія
+# Король Талси 1
+#EXTINF:-1 group-title="Сільвестер Сталлоне" tvg-logo="https://images.kinorium.com/movie/shot/2931556/w1500_52299351.jpg", 1-1 Їдь на захід старий
 https://calypso.tortuga.tw/content/stream/serials/tulsa.king.s01e01.rezka.mvo_83694/hls/1080/index.m3u8
-#EXTINF:-1 group-title="Сільвестер Сталлоне" tvg-logo="https://images.kinorium.com/movie/shot/2931556/w1500_52299370.jpg", Король Талси 2-серія
+#EXTINF:-1 group-title="Сільвестер Сталлоне" tvg-logo="https://images.kinorium.com/movie/shot/2931556/w1500_52299370.jpg", 1-2 Центр Всесвіту
 https://calypso.tortuga.tw/content/stream/serials/tulsa.king.s01e02.rezka.mvo_83935/hls/1080/index.m3u8
-#EXTINF:-1 group-title="Сільвестер Сталлоне" tvg-logo="https://images.kinorium.com/movie/shot/2931556/w1500_52299385.jpg", Король Талси 3-серія
+#EXTINF:-1 group-title="Сільвестер Сталлоне" tvg-logo="https://images.kinorium.com/movie/shot/2931556/w1500_52299385.jpg", 1-3 Каприз
 https://calypso.tortuga.tw/content/stream/serials/tulsa.king.s01e03.rezka.mvo_84134/hls/1080/index.m3u8
-#EXTINF:-1 group-title="Сільвестер Сталлоне" tvg-logo="https://images.kinorium.com/movie/shot/2931556/w1500_51207362.jpg", Король Талси 4-серія
+#EXTINF:-1 group-title="Сільвестер Сталлоне" tvg-logo="https://images.kinorium.com/movie/shot/2931556/w1500_51207362.jpg", 1-4 Місце зустрічі
 https://calypso.tortuga.tw/content/stream/serials/tulsa.king.s01e04.rezka.mvo_84181/hls/1080/index.m3u8
-#EXTINF:-1 group-title="Сільвестер Сталлоне" tvg-logo="https://images.kinorium.com/movie/shot/2931556/w1500_52299406.jpg", Король Талси 5-серія
+#EXTINF:-1 group-title="Сільвестер Сталлоне" tvg-logo="https://images.kinorium.com/movie/shot/2931556/w1500_52299406.jpg", 1-5 Касир Джо
 https://calypso.tortuga.tw/content/stream/serials/tulsa.king.s01e05.rezka.mvo_84375/hls/1080/index.m3u8
-#EXTINF:-1 group-title="Сільвестер Сталлоне" tvg-logo="https://images.kinorium.com/movie/shot/2931556/w1500_52299412.jpg", Король Талси 6-серія
+#EXTINF:-1 group-title="Сільвестер Сталлоне" tvg-logo="https://images.kinorium.com/movie/shot/2931556/w1500_52299412.jpg", 1-6 Стайня
 https://calypso.tortuga.tw/content/stream/serials/tulsa.king.s01e06.rezka.mvo_84455/hls/1080/index.m3u8
-#EXTINF:-1 group-title="Сільвестер Сталлоне" tvg-logo="https://images.kinorium.com/movie/shot/2931556/w1500_52299424.jpg", Король Талси 7-серія
+#EXTINF:-1 group-title="Сільвестер Сталлоне" tvg-logo="https://images.kinorium.com/movie/shot/2931556/w1500_52299424.jpg", 1-7 Ворр Акерс
 https://calypso.tortuga.tw/content/stream/serials/tulsa.king.s01e07.rezka.mvo_85708/hls/1080/index.m3u8
-#EXTINF:-1 group-title="Сільвестер Сталлоне" tvg-logo="https://images.kinorium.com/movie/shot/2931556/w1500_52299430.jpg", Король Талси 8-серія
+#EXTINF:-1 group-title="Сільвестер Сталлоне" tvg-logo="https://images.kinorium.com/movie/shot/2931556/w1500_52299430.jpg", 1-8 Стіни з глинобитної сталі
 https://calypso.tortuga.tw/content/stream/serials/tulsa.king.s01e08.rezka.mvo_85126/hls/1080/index.m3u8
-#EXTINF:-1 group-title="Сільвестер Сталлоне" tvg-logo="https://images.kinorium.com/movie/shot/2931556/w1500_51492786.jpg", Король Талси 9-серія
+#EXTINF:-1 group-title="Сільвестер Сталлоне" tvg-logo="https://images.kinorium.com/movie/shot/2931556/w1500_51492786.jpg", 1-9 Доброго шляху
 https://calypso.tortuga.tw/content/stream/serials/tulsa.king.s01e09.rezka.mvo_85245/hls/1080/index.m3u8
+
+# Король Талси 2
+#EXTINF:-1 group-title="Сільвестер Сталлоне" tvg-logo="https://i.postimg.cc/fLRc4rrw/p27869452-e-h9-aa.jpg", 2-1 Знову в сідлі
+https://calypso.tortuga.tw/content/stream/serials/tulsa.king.s02e01.rezka.mvo_101555/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Сільвестер Сталлоне" tvg-logo="https://i.postimg.cc/dty8Kd4T/p27871054-e-h9-aa.jpg", 2-2 Блюз Канзас-Сити
+https://calypso.tortuga.tw/content/stream/serials/tulsa.king.s02e02.rezka.mvo_101706/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Сільвестер Сталлоне" tvg-logo="https://i.postimg.cc/7Lx77RDg/p27871056-e-h9-aa.jpg", 2-3 Оклахома проти Манфреді
+https://calypso.tortuga.tw/content/stream/serials/tulsa.king.s02e03.rezka.mvo_101707/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Сільвестер Сталлоне" tvg-logo="https://i.postimg.cc/c6ytJ9Xt/p27871064-e-h9-aa.jpg", 2-4 Герої та лиходії
+https://calypso.tortuga.tw/content/stream/serials/tulsa.king.s02e04.rezka.mvo_101911/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Сільвестер Сталлоне" tvg-logo="https://i.postimg.cc/CKPNK0DZ/p27871068-e-v7-aa.jpg", 2-5 Боротьба з вітряками
+https://calypso.tortuga.tw/content/stream/serials/tulsa.king.s02e05.rezka.mvo_102161/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Сільвестер Сталлоне" tvg-logo="https://i.postimg.cc/DZ4qyXnD/p27871073-e-h10-aa.jpg", 2-6 Навігатор
+https://calypso.tortuga.tw/content/stream/serials/tulsa.king.s02e06.rezka.mvo_102516/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Сільвестер Сталлоне" tvg-logo="https://i.postimg.cc/3NM2yxww/p27871076-e-h8-aa.jpg", 2-7 Життєзабезпечення
+https://calypso.tortuga.tw/content/stream/serials/tulsa.king.s02e07.rezka.mvo_102989/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Сільвестер Сталлоне" tvg-logo="https://i.postimg.cc/qBn8Pym6/p27871080-e-h8-aa.jpg", 2-8 Зміна керівництва
+https://calypso.tortuga.tw/content/stream/serials/tulsa.king.s02e08.rezka.mvo_103353/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Сільвестер Сталлоне" tvg-logo="https://i.postimg.cc/9fr9J7RM/p27871083-e-h10-aa.jpg", 2-9 Тріада
+https://calypso.tortuga.tw/content/stream/serials/tulsa.king.s02e09.rezka.mvo_103668/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Сільвестер Сталлоне" tvg-logo="https://i.postimg.cc/nzmDtf1f/p27871086-e-h10-aa.jpg", 2-10 Реконструкція
+https://calypso.tortuga.tw/content/stream/serials/tulsa.king.s02e10.rezka.mvo_103981/hls/1080/index.m3u8
 
 # Фільми : Жан-Клод Ван Дамм
 #EXTINF:-1 group-title="Жан-Клод Ван Дамм" tvg-logo="https://uakino.me/uploads/posts/2022-09/1662735215_11.jpg", Не відступати і не здаватися
-https://ashdi.vip/video3/1/films/no_retreat_no_surrender_1986_remastered_bdremux_1080p_133220/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+https://s10.hdvbua.pro/media/content/stream/films/no.retreat.no.surrender.1986.bdremux.1080p.ntn.mvo_110360/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Жан-Клод Ван Дамм" tvg-logo="https://uakino.me/uploads/posts/2019-10/1570280990-1.jpg", Чорний орел
-https://ashdi.vip/video3/1/films/black_eagle_1988_ukreng_bdripavc_hurtom_57376/hls/720/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+https://ashdi.vip/video29/1/films/black_eagle_1988_ukreng_bdripavc_hurtom_57376/hls/720/BK+AlHWPl/tdmwfhBIkk/index.m3u8
 #EXTINF:-1 group-title="Жан-Клод Ван Дамм" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTXOpUGMEBSbWg90gPhMKiZvDEO.jpg", Кривавий спорт
-https://ashdi.vip/video3/1/new2/bloodsport_1988_webrip_1080p_ukr_eng_hurtom_14313/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
+https://ashdi.vip/video29/3/new2/bloodsport_1988_webrip_1080p_ukr_eng_hurtom_14313/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
 #EXTINF:-1 group-title="Жан-Клод Ван Дамм" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b76TxjzO8TVfZkgxdZoCWwhSeIN.jpg", Кікбоксер
 https://ashdi.vip/video3/1/new/kickboxer_1989_bdrip_1080p_h.265_2xukr_eng_hurtom_17984/hls/1080/BK+AlHWPl/tdmwfhBIkk/index.m3u8
 #EXTINF:-1 group-title="Жан-Клод Ван Дамм" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNa8ykKoHX8QgtfTln2CwM4aI3c.jpg", Кіборг
