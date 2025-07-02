@@ -619,7 +619,6 @@ https://s10.hdvbua.pro/media/content/stream/films/mission.impossible.fallout.201
 #EXTINF:-1 group-title="Том Круз" tvg-logo="https://image.tmdb.org/t/p/original/xmcMzLkX8GsLdSrCHjGhCRrbfCk.jpg", Місія Неможлива 7: Розплата
 https://s10.hdvbua.pro/media/content/stream/films/mission_impossible_dead_reckoning_part_one_2023_bdrip_1080p_92298/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Том Круз" tvg-logo="https://image.tmdb.org/t/p/original/4DbpxUw2HLT4VzPl8ILEpd6D7eS.jpg", Місія Неможлива 8: Фінальна Розплата
-
 #EXTINF:-1 group-title="Том Круз" tvg-logo="https://image.tmdb.org/t/p/original/hjT3mxbJEjIgMo2Tfn8aYPoJY5.jpg", Топ Ган
 https://calypso.tortuga.tw/content/stream/chest/top_gun_1986_bdrip_1080p_59691/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Том Круз" tvg-logo="https://image.tmdb.org/t/p/original/k1uiCOomubYiCxg29536yFMERfD.jpg", Топ Ган: Меверік
@@ -675,97 +674,99 @@ https://calypso.tortuga.tw/content/stream/films/minority_report_2002_open_matte_
 #EXTINF:-1 group-title="Том Круз" tvg-logo="https://uakino.me/uploads/posts/2025-04/far_and_away_1992_cover.jpg", Далека країна
 https://ashdi.vip/video1/1/films/far_and_away_1992_bdrip_1080p_72248/hls/1080/BK+AlHWPl/tdmwjhB4ks/index.m3u8
 
-# Фільми : Джекі Чан
+# Джекі Чан
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://uakino.me/uploads/post/Project%20A/aiEtQitm0pbRC93ABsrHhw9HhMR.jpg", Проект А
-
+https://ashdi.vip/video2/1/films/a_gai_wak_1983_bdripavc_3xukr_chihurtom_123958/hls/720/BK+AlHWPl/tdmwjhB4ks/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://images.kinorium.com/movie/poster/84851/w1500_53511288.jpg", Проект А 2
-
+https://ashdi.vip/video2/3/new2/a_gai_wak_2_1987_bdripavc_2xukrchihurtom_30329/hls/720/BK+AlHWPl/tdmwjhB4ks/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://ua-images.kinorium.com/movie/1080/82116.jpg", Поліцейська історія
-
+https://calypso.tortuga.tw/content/stream/films/police_story_1985_bdrip_720p_79394/hls/720/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://uakino.me/uploads/posts/2024-08/policistor2.jpg", Поліцейська історія 2
-
+https://calypso.tortuga.tw/content/stream/films/police_story_2_1988_bdrip_720p_79396/hls/720/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://ua-images.kinorium.com/movie/1080/95410.jpg?1747720693", Поліцейська історія 3. Суперкоп 
-
+https://calypso.tortuga.tw/content/stream/films/police_story_3_supercop_1992_bdrip_720p_79398/hls/720/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://images.kinorium.com/movie/cover/105901/w1500_37699414.jpg", Поліцейська історія 4: Перший удар
-
+https://calypso.tortuga.tw/content/stream/films/first_strike_police_story_4_1996_bdrip_1080p_85758/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://ua-images.kinorium.com/movie/1080/300246.jpg", Нова поліцейська історія
-
+https://ashdi.vip/video2/3/new/new_police_story_2004_ukr_ac3_5.1_chi_bdrip_720p_hurtom_16603/hls/720/BK+AlHWPl/tdmwjhB4ks/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://image.tmdb.org/t/p/original/2Xm3Oy4tekABPe9M3JUllsLfzGH.jpg", Обладунки Бога
-
+https://calypso.tortuga.tw/content/stream/films/armour_of_god_1986_bdrip_1080p_75277/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://image.tmdb.org/t/p/original/kWbMZHKN70N6dRPkmPf05oHbKrW.jpg", Обладунки Бога 2: Операція Кондор
-
+https://calypso.tortuga.tw/content/stream/films/armour_of_god_2_operation_condor_1991_bdrip_1080p_75279/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://i.kinobaza.com.ua/w2000/65695811889f3.jpg", Обладунки Бога 3: Місія Зодіак
-
+https://calypso.tortuga.tw/content/stream/films/chinese_zodiac_2012_bdrip_1080p_75281/hls/1080/index.m3u8
+#EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://ua-images.kinorium.com/movie/1080/1521457.jpg", Обладунки бога: У пошуках скарбів
+https://calypso.tortuga.tw/content/stream/films/gong_fu_yu_jia_2017_bdrip_1080p_15462/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://image.tmdb.org/t/p/original/o1lBsMGLBobEKZQUDbBwSm8mea2.jpg", Серце дракона
-
+https://s10.hdvbua.pro/media/content/stream/films/heart.of.dragon.1985.bdremux.1080p.enterfilm.mvo_110370/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://images.kinorium.com/movie/poster/89728/w1500_3197815.jpg", Містер Гонконг
-
+https://ashdi.vip/video2/2/films/miracles_the_canton_godfather_aka_kei_zik_1989_bdremux_1080putn_136927/hls/1080/BK+AlHWPl/tdmwjhB4ks/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://images.kinorium.com/movie/poster/96166/w1500_3203913.jpg", Близнюки-дракони
-
+https://ashdi.vip/video2/1/films/the_twin_dragons_1992_ukrchi_bdripavc_hurtom_102586/hls/720/BK+AlHWPl/tdmwjhB4ks/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://image.tmdb.org/t/p/original/tA8P6YQEs7uxosOaO1H6oA79CFm.jpg", Закусочна на колесах
-
+https://ashdi.vip/video2/3/new/wheels_on_meals_1984_bdrip_1080p_3xukr.chi_hurtom_16349/hls/1080/BK+AlHWPl/tdmwjhB4ks/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://image.tmdb.org/t/p/original/b8uQ4rzc15vm4VTjJz5RASUEhrI.jpg", Міський мисливець
-
-#EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://i.kinobaza.com.ua/w2000/65696ebf2027d.jpg", П'яний майстер
-
+https://ashdi.vip/video2/3/new/city.hunter_bdrip.720p_ukr_chisubhurtom_20095/hls/720/BK+AlHWPl/tdmwjhB4ks/index.m3u8
+#EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://ua-images.kinorium.com/movie/1080/74033.jpg", П'яний майстер
+https://ashdi.vip/video2/3/new/jui_kuen_1978_bdrip_1080p_ukr.chi_sub.eng_hurtom_15967/hls/1080/BK+AlHWPl/tdmwjhB4ks/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://ua-images.kinorium.com/movie/1080/101521.jpg", П'яний майстер 2
-
+https://ashdi.vip/video2/3/new/the_legend_of_drunken_master_1994_ukr_ac3_5.1_chi_eng_bdrip_hurtom_16353/hls/720/BK+AlHWPl/tdmwjhB4ks/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://ua-images.kinorium.com/movie/1080/103025.jpg", Розбірки у Бронксі
-
+https://calypso.tortuga.tw/content/stream/new/hung_fan_kui_1995_us_transfer_bdrip_1080p_h.265_52536/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://ua-images.kinorium.com/movie/300/103747.jpg", Громобій
-
+https://ashdi.vip/video2/3/new/stormbreaker_2006_bdrip_2xukr_hurtom_16762/hls/480/BK+AlHWPl/tdmwjhB4ks/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://ua-images.kinorium.com/movie/1080/106848.jpg", Містер Крутий
-
+https://s10.hdvbua.pro/media1/content/stream/chest/mr._nice_guy_1997_webdl_1080p_64667/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://i.kinobaza.com.ua/w2000/65696117cd61d.jpg", Година пік
-
+https://calypso.tortuga.tw/content/stream/films/rush_hour_1998_bdrip_1080p_46630/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://i.kinobaza.com.ua/w2000/6569611e0b2ef.jpg", Година пік 2
-
+https://calypso.tortuga.tw/content/stream/new/rush_hour_2_2001_bdrip_1080p_47590/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://i.kinobaza.com.ua/w2000/6569612dd62fc.jpg", Година пік 3
-
+https://calypso.tortuga.tw/content/stream/new/rush_hour_3_2007_bdrip_1080p_47592/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://ua-images.kinorium.com/movie/1080/113527.jpg", Хто я?
-
+https://calypso.tortuga.tw/content/stream/films/who_am_i_1998_hdtv_1080p_78593/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://i.kinobaza.com.ua/w2000/65699dfedff5d.jpg", Величний
-
+https://zetvideo.net/content/stream/films/boh_lei_chun_1999_hong_kong_cut_bdrip_1080p_19026/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://ua-images.kinorium.com/movie/300/153028.jpg", Шанхайський полудень
-
+https://calypso.tortuga.tw/content/stream/films/shanghai.noon.2000.bdrip.1080p_46562/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://uakino.me/uploads/posts/2019-05/1558682333-1.jpg", Випадковий шпигун
-
+https://s10.hdvbua.pro/media/content/stream/films/dak.mo.mai.sing.2001.bdremux.1080p.ukraina.mvo_110187/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://i.kinobaza.com.ua/w2000/6569763a00a19.jpg", Смокінг
-
+https://calypso.tortuga.tw/content/stream/films/the_tuxedo_2002_bdrip_1080p_75735/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://uakino.me/uploads/posts/2022-07/1657565825_1_1312543080_550.jpg", Шанхайські лицарі
-
+https://ashdi.vip/video2/3/new4/shanghai_knights_2003_bdrip_1080p_ukrenghurtom_6841/hls/1080/BK+AlHWPl/tdmwjhB4ks/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://uakino.me/uploads/posts/2020-12/1608650433_11.jpg", Медальйон
-
+https://ashdi.vip/video2/1/new3/the_medallion_2003_webdl_1080p_open_matte_ukreng__sub_eng_hurtom_40240/hls/1080/BK+AlHWPl/tdmwjhB4ks/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://i.kinobaza.com.ua/w2000/682ea910459ff.jpg", Навколо світу за 80 днів
-
+https://calypso.tortuga.tw/content/stream/films/around_the_world_in_80_days_2004_webdl_1080p_open_matte_79867/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://image.tmdb.org/t/p/original/8ikyGJshGoqCg23RClJRkSQQPLn.jpg", Міф
-
+https://ashdi.vip/video2/3/new/the_myth_san_wa_2005_ukr.chn_bdrip_hurtom_by_abodnya_17318/hls/480/BK+AlHWPl/tdmwjhB4ks/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://ua-images.kinorium.com/movie/1080/364378.jpg", Роб-бі-Гуд
-
+https://ashdi.vip/video2/1/films/bo_bui_gai_wak_2006_theatrical_cut_bdrip_1080p_h.265_3xukr_chi_hurtom_85255/hls/1080/BK+AlHWPl/tdmwjhB4ks/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://ua-images.kinorium.com/movie/1080/395124.jpg?1507569223", Заборонене царство
-
+https://ashdi.vip/video2/3/new2/the.forbidden.kingdom.2008.bdrip.1080p.3xukr.eng_14324/hls/1080/BK+AlHWPl/tdmwjhB4ks/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://i.kinobaza.com.ua/w2000/62593a4bd6617.jpg", Шпигун по сусідству
-
+https://calypso.tortuga.tw/content/stream/chest/the.spy.next.door.2010.bdrip.tet.mvo_72757/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://i.kinobaza.com.ua/w2000/656951aeef906.jpg", Маленький великий солдат
-
+https://s10.hdvbua.pro/media1/content/stream/films/da.bing.xiao.jiang.2010.bdremux.1080p.1plus1.mvo_110627/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://ua-images.kinorium.com/movie/1080/555278.jpg", Падіння останньої імперії
-
+https://ashdi.vip/video2/3/new3/xin_hai_ge_ming_1911_revolution_2011_bdripavc_14866/hls/720/BK+AlHWPl/tdmwjhB4ks/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://images.kinorium.com/movie/1080/775376.jpg", Меч дракона
-
+https://ashdi.vip/video2/3/new4/dragon.blade.2015.bdrip.1080p_13526/hls/1080/BK+AlHWPl/tdmwjhB4ks/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://image.tmdb.org/t/p/original/qqRDCcrbJPFmCjKNvnF6DN2xsfc.jpg",	Відчайдушні напарники
-
+https://ashdi.vip/video2/3/new2/skiptrace_2016_bdrip_1080p_h.265_ukr_eng_hurtom_14457/hls/1080/BK+AlHWPl/tdmwjhB4ks/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://image.tmdb.org/t/p/original/m5JzbKFZOfET15vwdtj3vl6iyq9.jpg", Залізничні тигри
-
+https://ashdi.vip/video2/3/new/railroad_tigers_2016_bdrip_1080p_h.265_ukr_chi_16996/hls/1080/BK+AlHWPl/tdmwjhB4ks/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://i.kinobaza.com.ua/w2000/6569a90361a19.jpg", Кровоточива сталь
-
+https://ashdi.vip/video2/1/new/bleeding_steel_2017_bdremux_1080p_180443/hls/1080/BK+AlHWPl/tdmwjhB4ks/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://image.tmdb.org/t/p/w342/2Gt79kzhXhtzfZj7OizvqgtRqL9.jpg", Іноземець
-
+https://calypso.tortuga.tw/content/stream/films/the_foreigner_2017_bdrip_1080p_8450/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://i.kinobaza.com.ua/w2000/65698597859cd.jpg", Авангард
-
+https://calypso.tortuga.tw/content/stream/new/vanguard.2020.bdrip.1080p_52392/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://i.kinobaza.com.ua/w2000/650096cc9a9f0.jpg", Обережно кінь
-
+https://s10.hdvbua.pro/media1/content/stream/films/longma_jingshen_2023_bdrip_1080p_91335/hls/1080/index.m3u8
 #EXTINF:-1 group-title="Джекі Чан" tvg-logo="https://i.kinobaza.com.ua/w2000/682eaeb4efe03.jpg", Місія на двох
-
+https://zetvideo.net/content/stream/films/hidden.strike.2023.1080p.nf.webdl.dd5.1.h.264utopia_19303/hls/1080/index.m3u8
 
 # Луі де Фюнес
 #EXTINF:-1 group-title="Луі де Фюнес" tvg-logo="", Фантомас
